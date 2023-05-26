@@ -10,7 +10,7 @@ Currently working on a [hobby OS kernel](https://github.com/emm218/eos) and an [
   <img alt="a depiction of Avalokitesvara bodhisattva" src="/thangka.jpg" width=200px>
 </p>
 <p align="center">
-  Photograph by Wikipedia user ShahJahan.<br> This image is licensed under the Creative Commons <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">Attribution-Share Alike 3.0 Unported</a> license
+  Photograph by Wikipedia user ShahJahan.<br> Original title Chenrezigthangka.jpg. This image is licensed under the Creative Commons <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">Attribution-Share Alike 3.0 Unported</a> license
 </p>
 <!--
 **emm218/emm218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
